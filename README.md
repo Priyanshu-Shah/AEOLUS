@@ -182,8 +182,7 @@ The complementary filter successfully corrects gyroscope drift while rejecting h
 
 ---
 
-## Repository Structure *(suggested)*
-
+## Repository Structure 
 ```
 AEOLUS/
 ├── simulink/
